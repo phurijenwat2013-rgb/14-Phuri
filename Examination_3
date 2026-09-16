@@ -7,4 +7,11 @@
 # ===================================================
 
 # เขียนโค้ดต่อจากนี้
-score = int(input())
+score = int(input(จำนวนเต็ม 0-100))
+
+if score >= 50:
+ print("Pass")
+elif score <= 50:
+ print("Fail")
+else:
+ print()
