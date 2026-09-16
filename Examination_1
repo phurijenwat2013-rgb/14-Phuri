@@ -6,5 +6,5 @@
 
 # เขียนโค้ดต่อจากนี้
 name = input(ชื่อ: )
-output = " Hello : " 
+print = " Hello : " 
 
